@@ -1,7 +1,7 @@
 Adapted from dash example gallery for interacttive image segmentation, updated for new versions of dash components and bootstrap templates.
 
 ```bash
-conda create -n IML python=3.9
+conda create -n IML python=3.8
 pip install -r requirements.txt
 ```
 
